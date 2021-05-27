@@ -5,3 +5,11 @@ This analysis is done for an investment bank "Accountability Accounting".  This 
 *  PCA was used for reducing data dimensions
 *  K-means was used to cluster the cryptocurrencies
 *  the results are visualized with hvplot scatter plot
+
+
+Table showing all the columns:
+![](images/table.PNG)
+
+
+Hvplot showing Total Coins Mined and Total Coin Supply:
+![](images/Plot.PNG)
